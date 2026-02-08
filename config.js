@@ -34,7 +34,7 @@ window.VALENTINE_CONFIG = {
       month: 2, // February
       emoji: "🌹",
       color: "#ff6b9d",
-      videoId: "dQw4w9WgXcQ", // YouTube video ID (change this to your video)
+      videoId: "iI6vaHKJ60I", // YouTube video ID (change this to your video)
       message: "A rose for you, my love",
       memories: [
         "Remember our first date?",
@@ -48,7 +48,7 @@ window.VALENTINE_CONFIG = {
       month: 2,
       emoji: "💍",
       color: "#ffd700",
-      videoId: "Hy4LJYKIsQ0",
+      videoId: "rujYSzZZoGg",
       message: "I choose you every day",
       memories: [
         "Will you be mine?",
@@ -62,7 +62,7 @@ window.VALENTINE_CONFIG = {
       month: 2,
       emoji: "🍫",
       color: "#8b4513",
-      videoId: "h2tv4PmSaKU",
+      videoId: "b9OBBK9bq24",
       message: "Life with you is sweeter than chocolate",
       memories: [
         "Sweet moments together",
@@ -76,7 +76,7 @@ window.VALENTINE_CONFIG = {
       month: 2,
       emoji: "🧸",
       color: "#d2691e",
-      videoId: "Bxl2MunBIt8",
+      videoId: "1JNBjgAc62U",
       message: "You're my cuddly companion",
       memories: [
         "Cozy nights together",
@@ -90,7 +90,7 @@ window.VALENTINE_CONFIG = {
       month: 2,
       emoji: "🤝",
       color: "#ff69b4",
-      videoId: "43VHF4Q6wfU",
+      videoId: "ZlNA57R9y8o",
       message: "I promise to love you forever",
       memories: [
         "My commitment to you",
@@ -104,7 +104,7 @@ window.VALENTINE_CONFIG = {
       month: 2,
       emoji: "🤗",
       color: "#ff1493",
-      videoId: "BwGQIv_m_wg",
+      videoId: "Tgv-HT7X6Uc",
       message: "In your arms is where I belong",
       memories: [
         "Your warm embrace",
@@ -118,7 +118,7 @@ window.VALENTINE_CONFIG = {
       month: 2,
       emoji: "💋",
       color: "#dc143c",
-      videoId: "1i0Jo8ml2pg",
+      videoId: "STqy7Ejc8zA",
       message: "Every kiss tells our story",
       memories: [
         "Our first kiss",
@@ -132,7 +132,7 @@ window.VALENTINE_CONFIG = {
       month: 2,
       emoji: "❤️",
       color: "#ff0000",
-      videoId: "yYHGvhs06Xc",
+      videoId: "xD3CJjViJ2s",
       message: "You are my forever Valentine",
       memories: [
         "Celebrating our love",
@@ -143,10 +143,10 @@ window.VALENTINE_CONFIG = {
 
   // Photo Gallery (add your photos here)
   gallery: [
-    { src: "assets/images/photo1.jpg", caption: "Our first date" },
-    { src: "assets/images/photo2.jpg", caption: "Summer vacation" },
-    { src: "assets/images/photo3.jpg", caption: "Cozy winter nights" },
-    { src: "assets/images/photo4.jpg", caption: "Happy moments" }
+    { src: "assets/images/photo1.jpg", caption: "Our first Beach sunset" },
+    { src: "assets/images/photo2.jpg", caption: "Goa vacation" },
+    { src: "assets/images/photo3.jpg", caption: "Fallen in love" },
+    { src: "assets/images/photo4.jpg", caption: "Together forever" }
   ],
 
   // Love Messages (random messages that appear)
